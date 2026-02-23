@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 MCA Student passionate about Machine Learning, AI, and Data Analytics.<br>I love building data-driven applications that solve real-world problems. During my academic journey, I developed CoconutLeafGuard — an agri-tech platform for coconut crop care and marketplace management, built with Python, Streamlit, and PostgreSQL.<br>Currently deepening my knowledge in ML/AI and backend development, with a focus on turning data into meaningful insights and intelligent systems.<br>🛠 Tech Stack: Python · Streamlit · PostgreSQL · Machine Learning · Data Analytics<br>📚 Always learning. Always building.
+🌱 I'm Currently learning Data Analytics and AI to build data-driven applications<br>
+👨‍💻 MCA Student passionate about AI, and Data Analytics.<br>
+📫 Reach out to me at yogithanb@gmail.com
 
 
 ## 🌐 Socials:
