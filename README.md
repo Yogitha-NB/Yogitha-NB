@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I'm Currently learning Data Analytics and AI to build data-driven applications<br><br>
-👨‍💻 MCA Student passionate about AI and Data Analytics.<br><br>
+🌱 I'm Currently learning Data Science,Software Development and AI to build data-driven applications<br><br>
+👨‍💻 MCA Student passionate about AI and Data Science.<br><br>
 📫 Reach out to me at yogithanb@gmail.com
 
 
